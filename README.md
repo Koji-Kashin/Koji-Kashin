@@ -1,42 +1,34 @@
 # 👋 Olá!
 
-Desenvolvedor com formação técnica, com foco em **desenvolvimento de sistemas**, **automação** e **Inteligência Artificial aplicada ao desenvolvimento**.
+Desenvolvedor com formação técnica, focado em **desenvolvimento de sistemas**, **automação** e **Inteligência Artificial aplicada ao desenvolvimento**.
 
-Tenho interesse especial em criar soluções práticas usando **Python**, **automação de processos**, **agentes de IA**, **Codex** e ferramentas modernas para acelerar protótipos e melhorar fluxos de trabalho.
+Tenho interesse em criar soluções práticas usando **Python**, **automação de processos**, **Codex**, **agentes de IA** e ferramentas modernas para acelerar protótipos, organizar fluxos de trabalho e apoiar a construção de software.
 
 ---
 
 ## 🚀 Foco atual
 
-- Desenvolvimento de sistemas e aplicações IA
+- Desenvolvimento de sistemas e aplicações com IA
 - Automação de tarefas e processos
-- IA aplicada ao desenvolvimento de software
-- Codex e agentes de programação
-- Prototipação rápida com IA
+- Codex, GitHub Copilot e agentes de programação
+- Prototipação rápida com apoio de IA
 - Organização, documentação e evolução de projetos
+- IA aplicada ao desenvolvimento de software
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Linguagens e Tecnologias
 
-**Python** · **SQL** · **HTML** · **CSS** · **JavaScript** · **Git** · **GitHub** · **VS Code** · **Codex** · **Ferramentas de IA**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,postgres" />
+</p>
+
+**Focando em:** `Codex` · · `Agentes de IA` · `Automação` · `Ferramentas de IA`
 
 ---
 
 ## 🧠 Desenvolvimento com IA
 
-Exploro o uso de IA como apoio real ao desenvolvimento: geração e revisão de código, estruturação de projetos, documentação técnica, refatoração, testes, automações e criação de agentes.
+Explorando o uso de IA como apoio real ao desenvolvimento: geração e revisão de código, estruturação de projetos, documentação técnica, refatoração, testes, automações e criação de agentes.
 
-A ideia não é apenas gerar código mais rápido, mas construir soluções com mais clareza, organização e produtividade.
-
----
-
-## 📌 Projetos
-
-Estou estruturando meu portfólio com projetos voltados para:
-
-- Sistemas web
-- Automações com Python
-- Ferramentas com IA
-- Agentes e assistentes de desenvolvimento
-- Dashboards e sistemas de controle
+O foco não é apenas gerar código mais rápido, mas construir soluções com mais **agilidade**, **organização**, **clareza técnica** e **produtividade**.
