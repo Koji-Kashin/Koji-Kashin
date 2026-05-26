@@ -19,7 +19,7 @@ Tenho interesse especial em criar soluções práticas usando **Python**, **auto
 
 ## 🛠️ Tecnologias e ferramentas
 
-**Python** · **SQL** · **HTML** · **CSS** · **JavaScript** · **Git** · **GitHub** · **VS Code** · **Codex** · **GitHub Copilot** · **Ferramentas de IA**
+**Python** · **SQL** · **HTML** · **CSS** · **JavaScript** · **Git** · **GitHub** · **VS Code** · **Codex** · **Ferramentas de IA**
 
 ---
 
