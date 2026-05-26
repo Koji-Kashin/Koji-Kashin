@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-Desenvolvedor em formação técnica, com foco em **desenvolvimento de sistemas**, **automação** e **Inteligência Artificial aplicada ao desenvolvimento**.
+Desenvolvedor com formação técnica, com foco em **desenvolvimento de sistemas**, **automação** e **Inteligência Artificial aplicada ao desenvolvimento**.
 
 Tenho interesse especial em criar soluções práticas usando **Python**, **automação de processos**, **agentes de IA**, **Codex** e ferramentas modernas para acelerar protótipos e melhorar fluxos de trabalho.
 
